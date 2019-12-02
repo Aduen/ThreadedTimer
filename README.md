@@ -1,6 +1,5 @@
 # ThreadedTimer
 Threaded Timer is a mbed os wrapper for EventQueue and Thread for usage on mbed Arduino boards like the 
-* Nano 33 IoT
 * Nano 33 Ble
 * Nano 33 Ble Sense
 
