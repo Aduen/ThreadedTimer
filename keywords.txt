@@ -20,4 +20,4 @@ time_left	KEYWORD2
 # Constants
 #######################################
 
-MAX_TIMERS	KEYWORD3
+MAX_TIMERS	LITERAL1
