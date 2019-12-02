@@ -4,7 +4,9 @@ Threaded Timer is a mbed os wrapper for EventQueue and Thread for usage on mbed 
 * Nano 33 Ble Sense
 
 
-Usage of the library is much like other Timing libraries on the Arduino community network. The big advantage of using the mbed os based implementation is Threading. A single ThreadedTimer runs in its own Thread and multiple Threaded Timers can run parallel without delaying each other. The 'basic' example shows the benefit ot this approach.
+Usage of the library is much like other Timing libraries on the Arduino community network. The big advantage of using the mbed os based implementation is Threading. A single ThreadedTimer runs in its own Thread and multiple Threaded Timers can run parallel without delaying each other. The 'basic' example shows the benefit of this approach.
+
+The most simple usage is shown below.
 
 ```c++
 #include <threadedtimer.h>
