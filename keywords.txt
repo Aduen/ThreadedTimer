@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For ThreadedTimer
+####################################### 
+# Class
+#######################################
+
+ThreadedTimer	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+every	KEYWORD2
+in	KEYWORD2
+
+cancel	KEYWORD2
+time_left	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+MAX_TIMERS	KEYWORD3
